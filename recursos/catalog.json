@@ -1,22 +1,22 @@
 [
   {
-    "name": "Ciudades de la Llanura"
-    "description": "blablabla"
+    "name": "Ciudades de la Llanura",
+    "description": "blablabla",
     "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/CiudadesDeLaLlanura.jpg"
   },
   {
-    "name": "El Aleph"
-    "description": "blebleble"
+    "name": "El Aleph",
+    "description": "blebleble",
     "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/ElAleph.jpg"
   },
   {
-    "name": "El Forastero Misterioso"
-    "description": "bliblibli"
+    "name": "El Forastero Misterioso",
+    "description": "bliblibli",
     "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/ElForasteroMisterioso.jpg"
   },
   {
-    "name": "Esto es agua"
-    "description": "blobloblo"
+    "name": "Esto es agua",
+    "description": "blobloblo",
     "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/EstoEsAgua.jpg"
   },
   {
