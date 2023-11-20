@@ -23,5 +23,30 @@
     "name": "Hamlet",
     "description": "blublublu",
     "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/Hamlet.jpg"
+  },
+  {
+    "name": "Ciudades de la Llanura",
+    "description": "blablabla",
+    "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/CiudadesDeLaLlanura.jpg"
+  },
+  {
+    "name": "El Aleph",
+    "description": "blebleble",
+    "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/ElAleph.jpg"
+  },
+  {
+    "name": "El Forastero Misterioso",
+    "description": "bliblibli",
+    "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/ElForasteroMisterioso.jpg"
+  },
+  {
+    "name": "Esto es agua",
+    "description": "blobloblo",
+    "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/EstoEsAgua.jpg"
+  },
+  {
+    "name": "Hamlet",
+    "description": "blublublu",
+    "image_url": "https://raw.githubusercontent.com/narCord/DAM/main/recursos/Hamlet.jpg"
   }
 ]
